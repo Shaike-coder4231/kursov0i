@@ -1,0 +1,47 @@
+[
+  {
+    "id": 101,
+    "title": "Windows 11 Pro (лицензионный ключ)",
+    "category": "Операционные системы",
+    "type": "license",
+    "price": 12990,
+    "oldPrice": 15990,
+    "stock": 15,
+    "duration": "бессрочно",
+    "activation": "E-mail",
+    "image": "🪟",
+    "rating": 4.8,
+    "description": "Официальный ключ активации Windows 11 Professional для одного ПК. Полный набор функций: BitLocker, удалённый рабочий стол, присоединение к домену.",
+    "reviews": []
+  },
+  {
+    "id": 102,
+    "title": "Kaspersky Internet Security — 1 год, 3 устройства",
+    "category": "Антивирусы",
+    "type": "subscription",
+    "price": 2990,
+    "oldPrice": 3990,
+    "stock": 40,
+    "duration": "1 год",
+    "activation": "E-mail",
+    "image": "🛡️",
+    "rating": 4.7,
+    "description": "Комплексная защита ПК, смартфонов и планшетов от вирусов, фишинга и мошеннических сайтов.",
+    "reviews": []
+  },
+  {
+    "id": 103,
+    "title": "Microsoft Office 2021 Home & Student",
+    "category": "Офисные программы",
+    "type": "license",
+    "price": 8990,
+    "oldPrice": 10990,
+    "stock": 12,
+    "duration": "бессрочно",
+    "activation": "E-mail",
+    "image": "📊",
+    "rating": 4.9,
+    "description": "Word, Excel и PowerPoint для дома и учёбы. Однократная покупка, привязка к одному ПК.",
+    "reviews": []
+  }
+]

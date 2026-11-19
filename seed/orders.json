@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1001, "clientId": 2, "date": "2026-11-05", "status": "completed", "paid": true, "paymentMethod": "card",
+    "items": [
+      { "productId": 101, "title": "Windows 11 Pro (лицензионный ключ)", "quantity": 1, "price": 12990, "keys": ["K7XP2-9MZ4Q-W3RT8-B6YH5"] },
+      { "productId": 103, "title": "Kaspersky Internet Security — 1 год, 3 устройства", "quantity": 1, "price": 2990, "keys": ["P2WQ8-4NB6X-7RD3M-J5FV9"] }
+    ],
+    "total": 15980
+  },
+  {
+    "id": 1002, "clientId": 3, "date": "2026-11-09", "status": "pending", "paymentMethod": "sbp",
+    "items": [
+      { "productId": 109, "title": "Cyberpunk 2077 (PC, ключ)", "quantity": 1, "price": 2999 }
+    ],
+    "total": 2999
+  }
+]

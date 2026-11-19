@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1001,
+    "clientId": 2,
+    "date": "2026-11-05",
+    "status": "completed",
+    "paid": true,
+    "paymentMethod": "card",
+    "items": [
+      {
+        "productId": 101,
+        "title": "Windows 11 Pro (лицензионный ключ)",
+        "quantity": 1,
+        "price": 12990,
+        "keys": [
+          "K7XP2-9MZ4Q-W3RT8-B6YH5"
+        ]
+      }
+    ],
+    "total": 12990
+  },
+  {
+    "id": 1002,
+    "clientId": 1,
+    "date": "2026-11-11",
+    "status": "pending",
+    "paymentMethod": "sbp",
+    "items": [
+      {
+        "productId": 104,
+        "title": "312312",
+        "quantity": 2,
+        "price": 3213
+      }
+    ],
+    "total": 6426
+  },
+  {
+    "id": 1003,
+    "clientId": 1,
+    "date": "2026-11-18",
+    "status": "pending",
+    "paymentMethod": "sbp",
+    "items": [
+      {
+        "productId": 102,
+        "title": "Kaspersky Internet Security — 1 год, 3 устройства",
+        "quantity": 3,
+        "price": 2990
+      }
+    ],
+    "total": 8970
+  },
+  {
+    "id": 1004,
+    "clientId": 4,
+    "date": "2026-11-18",
+    "status": "pending",
+    "paymentMethod": "card",
+    "items": [
+      {
+        "productId": 103,
+        "title": "Microsoft Office 2021 Home & Student",
+        "quantity": 1,
+        "price": 8990
+      }
+    ],
+    "total": 8990
+  }
+]
